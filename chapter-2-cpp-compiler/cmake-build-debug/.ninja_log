@@ -1,0 +1,4 @@
+# ninja log v5
+0	41	1711619324188367654	CMakeFiles/chapter_2_cpp_compiler.dir/func.cpp.o	65f0bac77c632100
+1	512	1711619324657890085	CMakeFiles/chapter_2_cpp_compiler.dir/main.cpp.o	f2838f0fd5f8ba21
+517	580	1711619324728515533	chapter_2_cpp_compiler	5d16162eb42468d8

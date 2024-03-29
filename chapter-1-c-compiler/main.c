@@ -1,1 +1,0 @@
-#include <stdio.h>#include "mathh.h"int main(int argc, const char * argv[]) {    // insert code here...    printf("Hello, World!\n");    int a=5;    int b=10;    int sum=addr(a,b);    // printf("sum=%d\n",sum);    printf("sum, World!\n");    return 0;}

@@ -1,1 +1,0 @@
-////  mathh.c//  hello////  Created by 李鹏飞 on 2024/3/28.//#include "mathh.h"int addr(int a, int b){    return a+b;}int sumr(int a, int b){    return a-b;}

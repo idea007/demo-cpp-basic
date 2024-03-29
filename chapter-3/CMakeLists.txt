@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD 17)
 include_directories(.)
 
 add_executable(chapter-3
-        func.cpp
-        func.h
+        src/func.cpp
+        include/func.h
         main.cpp)
 

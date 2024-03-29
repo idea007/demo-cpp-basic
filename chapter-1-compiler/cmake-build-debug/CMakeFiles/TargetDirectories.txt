@@ -1,3 +1,0 @@
-/Users/lipengfei/Documents/github/demo-cpp-basic/chapter-1-compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lipengfei/Documents/github/demo-cpp-basic/chapter-1-compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lipengfei/Documents/github/demo-cpp-basic/chapter-1-compiler/cmake-build-debug/CMakeFiles/chapter_1_compiler.dir
